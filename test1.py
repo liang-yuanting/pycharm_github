@@ -14,3 +14,6 @@ print("这是从pycharm生成github远程仓库的测试")
 
 
 我在github修改了。
+
+再次test.
+
